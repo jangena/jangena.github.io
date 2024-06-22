@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Welcome to Jekyll!
+title: 바른요양원 안내
 subtitle: A awesome static site generator.
-author: Jeffrey
+author: 시설장
 categories: jekyll
 banner:
   video: https://vjs.zencdn.net/v/oceans.mp4
@@ -16,14 +16,14 @@ banner:
   min_height: "38vh"
   heading_style: "font-size: 4.25em; font-weight: bold; text-decoration: underline"
   subheading_style: "color: gold"
-tags: jekyll theme yat
+tags: 시설안내 바른용양원 포토갤러리
 top: 1
 sidebar: []
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+바른요양원을 찾아주셔서 감사합니다
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+언제가 고객의 안전과 건강을 최우선으로 하여 최고의 서비스를 제공하겠습니다
 
 ## section 1
 
